@@ -1,0 +1,15 @@
+.panel-heading {
+  text-align: center;
+}
+.panel-heading {
+  font-family: cursive;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.panel-footer {
+  text-align: center;
+  font-family: cursive;
+}
+.btn {
+  text-align: center;
+}

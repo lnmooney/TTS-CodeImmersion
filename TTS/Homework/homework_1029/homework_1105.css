@@ -1,0 +1,59 @@
+.active {
+  background-color: red;
+  padding: 10px;
+}
+.nav {
+  color: white;
+  font-family: sans-serif;
+  background-color: black;
+  text-align: left;
+  text-decoration: none;
+  display: block;
+  padding: 37px;
+  margin-top: 10;
+}
+.navSearchBar {
+  img {
+    background-color: : red;
+  }
+}
+.navRight {
+  color: white;
+  font-family: sans-serif;
+  background-color: black;
+  text-align: right;
+  text-decoration: none;
+  display: block;
+  float:right;
+  margin-top: 10;
+  list-style: none;
+}
+a:visited {
+   color: white;
+   text-decoration: none;
+}
+.circle {
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
+  background-color: #555;
+  border-radius: 50%;
+  border-left: 25%;
+}
+.slice {
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+    .slice_1 {
+        background: red;
+    }
+    .slice_2 {
+        background: yellow;
+    }
+    .slice_3 {
+        background: blue;
+    }
+    .slice_4 {
+        background: green;
+    }

@@ -1,0 +1,38 @@
+body {
+  background-image: url("https://tikkido.com/sites/all/modules/twtevents/images/userfiles/images/blue%20watercolor%20background.jpg");
+}
+.navbar-brand {
+  text-align: center;
+  font-size: pt;
+  font-family: cursive;
+  color: white;
+}
+.page-header {
+  text-align: center;
+}
+.headerText {
+  font-size: 14pt;
+  text-align: center;
+}
+.panel-heading {
+  text-align: center;
+}
+.panel-heading {
+  font-family: cursive;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.centerWell {
+  text-align: center;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    font-family: cursive;
+    font-size: 12pt;
+    color: white;
+    text-align: center;
+}

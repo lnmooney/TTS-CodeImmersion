@@ -1,0 +1,23 @@
+p {
+  color: blue;
+  font-family: cursive;
+}
+a {
+  color: pink;
+}
+a:visited {
+   color: green;
+   text-decoration: none;
+}
+div {
+  color: purple;
+  font-family: cursive;
+}
+h1 {
+  color: purple;
+  font-family: cursive;
+  background-color: black;
+}
+body {
+  background-color: white;
+}

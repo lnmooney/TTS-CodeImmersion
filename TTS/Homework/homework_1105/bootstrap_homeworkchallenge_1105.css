@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://wallpaperxyz.com/wp-content/uploads/Aesthetic-HD-Wallpaper-Free-Download-for-Desktop-PC-Wallpaperxyz.com-3.png");
+}
+.navbar-right {
+  text-align: right;
+}
+.page-header {
+  text-align: center;
+}
+.headerText {
+  font-size: 14pt;
+  text-align: center;
+}
+.panel-heading {
+  text-align: left;
+}
+.panel-heading {
+  font-size: 14pt;
+  font-weight: bold;
+}
