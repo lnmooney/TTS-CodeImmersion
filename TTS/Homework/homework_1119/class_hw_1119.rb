@@ -21,7 +21,7 @@ number.times do
   name = gets.chomp.downcase
   profile = Tournament.new(seed, name)
   ranking.push(profile)
-  puts "Profile saved"
+  puts "Profile saved!"
 end
 # if odd number of teams given, have the first seed have a bye week
 if number % 2 == 0 # number is even
